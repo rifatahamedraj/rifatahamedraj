@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Shakib Al Arman</h1>
+<h1 align="center">Hi 👋, I'm Rifat Ahamed Raj</h1>
 <h3 align="center"> Python  Lover | Problem Solver | Aspiring Software Developer   </h3>
 
 <p align="center">
-  <a href="mailto:shakibalarman.cse@gmail.com">
+  <a href="mailto:rifatahamed.cse@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/shakibalarman">
